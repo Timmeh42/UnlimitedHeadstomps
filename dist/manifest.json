@@ -1,0 +1,9 @@
+{
+    "name": "UnlimitedHeadstomps",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Timmeh42/UnlimitedHeadstomps",
+    "description": "Removes the cooldown on the Headstompers / H3AD-5T v2 (its useless for dps anyway)",
+    "dependencies": [
+        "bbepis-BepInExPack-1.3.1"
+    ]
+}
